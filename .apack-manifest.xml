@@ -6,12 +6,12 @@
    <ARTIFACT_ID>DesignByContract</ARTIFACT_ID>
    <VERSION>0.1</VERSION>
    <REPOSITORY_TYPE>abapGit</REPOSITORY_TYPE>
-   <GIT_URL>https://github.com/hardyp/DesignByContract</GIT_URL>
+   <GIT_URL>https://github.com/CEngelVna/DesignByContract</GIT_URL>
    <DEPENDENCIES>
     <item>
-     <GROUP_ID>abaplogger</GROUP_ID>
-     <ARTIFACT_ID>abaplogger</ARTIFACT_ID>
-     <GIT_URL>https://github.com/ABAP-Logger/ABAP-Logger</GIT_URL>
+     <GROUP_ID>CEngelVna</GROUP_ID>
+     <ARTIFACT_ID>ABAP-Logger</ARTIFACT_ID>
+     <GIT_URL>https://github.com/CEngelVna/ABAP-Logger</GIT_URL>
     </item>
    </DEPENDENCIES>
   </DATA>
