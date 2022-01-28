@@ -10,7 +10,7 @@
    <DEPENDENCIES>
     <item>
      <GROUP_ID>CEngelVna</GROUP_ID>
-     <ARTIFACT_ID>ABAP-Logger</ARTIFACT_ID>
+     <ARTIFACT_ID>ABAP_Logger</ARTIFACT_ID>
      <GIT_URL>https://github.com/CEngelVna/ABAP-Logger</GIT_URL>
     </item>
    </DEPENDENCIES>
