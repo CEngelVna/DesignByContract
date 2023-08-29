@@ -1,4 +1,4 @@
-class ZCL_DBC_DEPENDENCIES definition
+gelclass ZCL_DBC_DEPENDENCIES definition
   public
   final
   create public .
@@ -28,7 +28,7 @@ CLASS ZCL_DBC_DEPENDENCIES IMPLEMENTATION.
       dependencies    = VALUE #(
         ( group_id    = 'abaplogger'
           artifact_id = 'abaplogger'
-          git_url     = 'https://github.com/ABAP-Logger/ABAP-Logger' ) ) ).
+          git_url     = 'https://github.com/CEngelVna/ABAP-Logger' ) ) ).
 
   ENDMETHOD.
 ENDCLASS.
