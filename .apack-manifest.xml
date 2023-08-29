@@ -9,7 +9,7 @@
    <GIT_URL>https://github.com/hardyp/DesignByContract</GIT_URL>
    <DEPENDENCIES>
     <item>
-     <GROUP_ID>abaplogger</GROUP_ID>
+     <GROUP_ID>CEngelVna</GROUP_ID>
      <ARTIFACT_ID>abaplogger</ARTIFACT_ID>
      <GIT_URL>https://github.com/CEngelVna/ABAP-Logger</GIT_URL>
     </item>
