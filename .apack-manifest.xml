@@ -7,13 +7,6 @@
    <VERSION>0.1</VERSION>
    <REPOSITORY_TYPE>abapGit</REPOSITORY_TYPE>
    <GIT_URL>https://github.com/hardyp/DesignByContract</GIT_URL>
-   <DEPENDENCIES>
-    <item>
-     <GROUP_ID>CEngelVna</GROUP_ID>
-     <ARTIFACT_ID>abaplogger</ARTIFACT_ID>
-     <GIT_URL>https://github.com/CEngelVna/ABAP-Logger</GIT_URL>
-    </item>
-   </DEPENDENCIES>
   </DATA>
  </asx:values>
 </asx:abap>
