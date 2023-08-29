@@ -26,7 +26,7 @@ CLASS ZCL_DBC_DEPENDENCIES IMPLEMENTATION.
       repository_type = zif_apack_manifest~co_abap_git
       git_url         = 'https://github.com/hardyp/DesignByContract'
       dependencies    = VALUE #(
-        ( group_id    = 'abaplogger'
+        ( group_id    = 'CEngelVna'
           artifact_id = 'abaplogger'
           git_url     = 'https://github.com/CEngelVna/ABAP-Logger' ) ) ).
 
